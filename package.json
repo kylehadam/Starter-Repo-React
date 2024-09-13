@@ -1,0 +1,11 @@
+{
+  "name": "starter-repo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "dev": "nodemon server/server.js",
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
